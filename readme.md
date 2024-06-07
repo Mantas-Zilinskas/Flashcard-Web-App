@@ -1,10 +1,12 @@
-#tikslai: 
-1. Sukurti naują kortelę ir įkelti jos duomenis į excel failą.
-2. Rodyti korteles.
-3. Panaikinti korteles.
-4. Importuoti/exportuoti korteles.
-5. redaguoti korteles.
-6. Rodyti korteles (at random).
-7. sukurti kortelių rinkinius. (optional)
-8. Išsaugoti mėgstamas korteles. (optional)
-9. kortelių rinkinių paieška. (optional)
+Flashcard Web App
+
+A simple flashcard web app with the following features:
+
+- Create your own flashcards
+- Group flashcards into sets
+- Play flashcards in random or spaced repetition modes
+- Play flashcards in timed mode
+- View statistics of flashcard sets
+- Plan events using a calendar
+
+This project is built using ASP.NET, Entity Framework, C#, HTML, CSS, JavaScript, PostgreSQL, REST API, and the MVC pattern.
